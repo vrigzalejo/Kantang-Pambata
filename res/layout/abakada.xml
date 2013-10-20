@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="70" >
+
+    <TextView
+        android:name="@+id/tvAbakadaTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/abakada_title"
+        android:textSize="15sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <TextView
+        android:name="@+id/tvAbakadaComposer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/abakada_composer"
+        android:textSize="15sp"
+        android:textStyle="italic" >
+    </TextView>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="21" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:name="@+id/tvAbakadaLyrics"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/abakada_lyrics"
+                android:textSize="15sp" >
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <org.holoeverywhere.widget.SeekBar
+            android:id="@+id/sbAbakada"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="50"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bPlayAbakada"
+            android:layout_width="162dp"
+            android:layout_height="75dp"
+            android:text="@string/play" />
+
+        <Button
+            android:id="@+id/bStopAbakada"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:text="@string/stop" >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>

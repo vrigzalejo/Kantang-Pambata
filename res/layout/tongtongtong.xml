@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="70" >
+
+    <TextView
+        android:name="@+id/tvTongTongTongTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/tongtongtong_title"
+        android:textSize="15sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <TextView
+        android:name="@+id/tvTongTongTongComposer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/tongtongtong_composer"
+        android:textSize="15sp"
+        android:textStyle="italic" >
+    </TextView>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="21" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:name="@+id/tvTongTongTongLyrics"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/tongtongtong_lyrics"
+                android:textSize="15sp" >
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <org.holoeverywhere.widget.SeekBar
+            android:id="@+id/sbTongTongTong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="50"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bPlayTongTongTong"
+            android:layout_width="162dp"
+            android:layout_height="75dp"
+            android:text="@string/play" />
+
+        <Button
+            android:id="@+id/bStopTongTongTong"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:text="@string/stop" >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>

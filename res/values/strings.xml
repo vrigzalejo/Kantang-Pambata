@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="abakada">ABAKADA</string>
+    <string name="ako_ay_may_lobo">Ako ay may Lobo</string>
+    <string name="bahay_kubo">Bahay Kubo</string>
+    <string name="leron_leron_sinta">Leron, Leron Sinta</string>
+    <string name="mag_exercise_tayo">Mag-exercise Tayo</string>
+    <string name="saranggola_ni_pepe">Saranggola ni Pepe</string>
+    <string name="sa_ugoy_ng_bayan">Sa Ugoy ng Duyan</string>
+    <string name="tong_tong_tong">Tong Tong Tong</string>
+    
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    
+    <string name="about">About</string>
+    <string name="about_text">Just Holo.
+Just Everywhere.</string>
+    <string name="alertdialog">AlertDialog</string>
+    <string name="app_name">Kantang Pambata</string>
+    <string name="autocompletetextview">Auto complete input field</string>
+    <string name="base_widgets">Base widgets</string>
+    <string name="button">Button</string>
+    <string name="calendar">Calendar</string>
+    <string name="checkable_buttons">Checkable buttons</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="contextmenu">ContextMenu</string>
+    <string name="dark">Dark</string>
+    <string name="datepicker">DatePicker</string>
+    <string name="demo">Demo</string>
+    <string name="developer_christophe">Christophe Versieux</string>
+    <string name="developer_christophe_description">Founder and coordinator of the project</string>
+    <string name="developer_sergey">Sergey Shatunov</string>
+    <string name="developer_sergey_description">Main developer</string>
+    <string name="edittext">Input field</string>
+    <string name="github">GitHub</string>
+    <string name="library_name">Kantang Pambata</string>
+    <string name="light">Light</string>
+    <string name="listpopupwindow">ListPopupWindow</string>
+    <string name="listviewModal">ListView Modal</string>
+    <string name="mixed">Mixed</string>
+    <string name="numberpicker">NumberPicker</string>
+    <string name="other">Other</string>
+    <string name="popupmenu">PopupMenu</string>
+    <string name="preference_base">Base</string>
+    <string name="preference_check_box_summary_off">I not checked ;(</string>
+    <string name="preference_check_box_summary_on">I checked! :)</string>
+    <string name="preference_check_box_title">CheckBox</string>
+    <string name="preference_edit_text_dialog_title">I\'m listening</string>
+    <string name="preference_edit_text_summary">Tap me!</string>
+    <string name="preference_edit_text_title">EditText</string>
+    <string name="preference_list_dialog_title">@string/preference_list_summary</string>
+    <string name="preference_list_summary">Skillet</string>
+    <string name="preference_list_title">List</string>
+    <string name="preference_lists">Lists</string>
+    <string name="preference_multi_list_dialog_title">@string/preference_multi_list_summary</string>
+    <string name="preference_multi_list_summary">Nirvana</string>
+    <string name="preference_multi_list_title">MultiSelectList</string>
+    <string name="preference_number_picker_dialog_title">Play to roulette!</string>
+    <string name="preference_number_picker_summary">Numbers... Hm.</string>
+    <string name="preference_number_picker_title">NumberPicker</string>
+    <string name="preference_other">@string/other</string>
+    <string name="preference_ringtone_summary">I love music!</string>
+    <string name="preference_ringtone_title">Ringtone</string>
+    <string name="preference_seek_bar">SeekBar</string>
+    <string name="preference_seek_bar_dialog">SeekBarDialog</string>
+    <string name="preference_summary">Preference Demo</string>
+    <string name="preference_switch_summary_off">Noooooo! ;(</string>
+    <string name="preference_switch_summary_on">I love world! :)</string>
+    <string name="preference_switch_title">Switch</string>
+    <string name="preference_title">@string/library_name</string>
+    <string name="preference_unsupported">Unsupported preferences</string>
+    <string name="preference_volume">Volume</string>
+    <string name="progress_bars">Progress bars</string>
+    <string name="progressdialog">ProgressDialog</string>
+    <string name="radiobutton">Radio-button</string>
+    <string name="select_browser">Select a browser</string>
+    <string name="select_email_programm">Select a email programm</string>
+    <string name="select_number">Select number</string>
+    <string name="settings">Settings</string>
+    <string name="timepicker">TimePicker</string>
+    <string name="toast">Toast</string>
+    <string name="very_very_long_operation">Very-very long operation...</string>
+    <string name="write_to_developers">Write to developers</string>
+    <string name="abakada_title">Abakada Song</string>
+    <string name="abakada_composer">Florante de Leon</string>
+    <string name="abakada_lyrics">
+         \n\n
+A - Ang mag-aral ay gintong tunay\n
+Ba - Bagay na dapat pagsikapan\n
+Ka - Karunungan ay kailangan lang\n
+Da - Dunong ay gamot sa kamangmangan\n
+E - Ewan ang sagot kapag hindi alam\n
+Ga - Gaga\'t gago ay yaong mga hangal\n
+Ha - Hahayaan bang ikay magkagayon\n
+I - Iwasan mo habang may pagkakataon\n
+La - Labis-labis ang mapapala\n
+Ma - Magsikhay ka lang sa pag-aaral\n
+Na - Nasa guro ang wastong landas\n
+Nga - Ngayoy sikapin mong ito ang mabagtas\n
+O - Oras na upang ikaw ay magising\n
+Pa - Pansinin mo ang dako na madilim\n
+Ra - Rehas ng mga tanong ay sagutin\n
+Sa - Sabihin mong ikaw ay may alam na rin\n
+Ta - Tatalino ang bawat isa\n
+U - Unawain lang at turuan\n
+Wa - Wiwikain ang Abakada\n
+Ya - Yaman at gabay sa kaunlaran
+</string>
+<string name="akoaymaylobo_title">Ang ay may Lobo</string>
+<string name="akoaymaylobo_composer">Jack Ailyen</string>
+<string name="akoaymaylobo_lyrics">
+     \n\n
+Ako ay may lobo\n 
+lumipad sa langit\n 
+\'Di ko na nakita\n 
+Pumutok na pala\n\n 
+Sayang ang pera ko\n 
+Binili ng lobo\n 
+Sa pagkain sana\n 
+Nabusog pa ako.\n    
+</string>
+<string name="bahaykubo_title">Bahay Kubo</string>
+<string name="bahaykubo_composer">Maurizio Ferrandini</string>
+<string name="bahaykubo_lyrics">
+   	\n\n
+Bahay kubo, kahit munti\n
+Ang halaman doon, ay sari-sari\n
+Sinkamas at talong, sigarilyas at mani\n
+Sitaw, bataw, patani.\n\n
+Kundol, patola, upo\'t kalabasa\n
+At saka mayroon pang labanos, mustasa,\n
+Sibuyas, kamatis, bawang at luya\n
+Sa paligid-ligid ay puno ng linga.
+    
+</string>
+<string name="leronleronsinta_title">Leron, Leron Sinta</string>
+<string name="leronleronsinta_composer">Jhanrhiel Sentenben</string>
+<string name="leronleronsinta_lyrics">
+     \n\n
+Leron, Leron, sinta\n
+Buko ng papaya\n
+Dala dala\’y buslo\n
+Sisidlan ng sinta\n\n
+
+Pagdating sa dulo\’y\n
+Nabali ang sanga,\n
+Kapos kapalaran\n
+Humanap ng iba.\n\n
+
+Halika na Neneng, tayo\’y manampalok\n
+Dalhin mo ang buslo, sisidlan ng hinog\n
+Pagdating sa dulo’y uunda-undayogn\n
+Kumapit ka Neneng, baka ka mahulog.\n\n
+
+Halika na Neneng at tayo’y magsimba\n
+At iyong isuot ang baro mo’t saya\n
+Ang baro mo’t sayang pagkaganda-ganda\n
+Kay ganda ng kulay — berde, puti, pula.\n\n
+
+Ako’y ibigin mo, lalaking matapang\n
+Ang baril ko’y pito, ang sundang ko’y siyam\n
+Ang lalakarin ko’y parte ng dinulang\n
+Isang pinggang pansit ang aking kalaban.
+    
+</string>
+<string name="magexercisetayo_title">Mag-Exercise Tayo Tuwing Umaga</string>
+<string name="magexercisetayo_composer">Yoyoy Villame</string>
+<string name="magexercisetayo_lyrics">
+     \n\n
+Mag-exercise tayo tuwing umaga, tuwing umaga...\n
+Mag-exercise tayo tuwing umaga\n
+Upang ang katawan natin ay sumigla 2x\n\n
+
+At sa gabi, maaga kang matulog\n
+Sa umaga, maaga kang gumising\n
+At agad mag-jogging jogging\n
+Sa plaza mag-tambling tumbling\n\n
+
+Ang leeg mo ay ipapaling-paling\n
+Ang baywang mo ipakendeng-kinding\n
+Ang braso mo nama\'y ay isusuntok-suntok sa hangin\n\n
+
+Isa, dalawa, tatlo, apat\n
+Lima, anim, pito, walo\n
+Walo, pito, anim, lima\n
+Apat, tatlo, dalawa, isa\n\n
+
+(Ulitin ang Koro)\n\n
+
+At sa gabi, maaga ikaw tulog\n
+Sa umaga, maaga ikaw gising\n
+At agad mag-jogging jogging\n
+Sa plaza mag-tambling tumbling\n\n
+
+Ang leeg mo, iyong ipapaling-paling\n
+Ang baywang mo, iyong ipakendeing-kinding\n
+Ang braso mo\'t kamay ay isusuntok-suntok sa hangin
+</string>
+<string name="saranggola_title">Saranggola ni Pepe</string>
+<string name="saranggola_composer">Celeste Legaspi</string>
+<string name="saranggola_lyrics">
+     \n\n
+
+Matayog ang lipad ng saranggola ni Pepe\n
+Matayog ang pangarap ng matandang bingi\n
+Umihip ang hangin, nawala sa paningin\n
+Sigaw ng kahapon, nilamon na ng alon\n
+Malabo ang tunog ng kampanilya ni Padre\n
+Maingay ang taginting, rosaryo ng babae\n
+Nay... nay... nay... nay...\n\n
+
+Matayog ang lipad ng saranggola ni Pepe\n
+Matayog ang pangarap ng matandang bingi\n
+Hinuli ang ibon, pinagsuot ng pantalon\n
+Tinali ng pisi, hindi na nagsinturon\n
+Dumaan ang dyipni at gumuhit pa sa kalye\n
+Mauling ang iniwang hindi na tinabi\n
+Nay... nay... nay... nay...\n\n
+
+Matayog ang lipad ng saranggola ni Pepe\n
+Matayog ang pangarap ng matandang bingi\n
+Pinilit umawit, ang naglaro\'y isang ingit\n
+Lumuha ang langit at ang mundo ay nanliit\n
+Kumakaway sa bakod ang anghel na nakatanod\n
+Sumusuway sa utos, puso\'y sinusunod\n
+Nay... nay... nay... nay...    
+    
+</string>
+<string name="saugoyngduyan_title">Sa Ugoy ng Duyan</string>
+<string name="saugoyngduyan_composer">Aiza Seguerra</string>
+<string name="saugoyngduyan_lyrics">
+	\n\n
+Sana\'y di magmaliw ang dati kong araw\n
+Nang munti pang bata sa piling ni Nanay\n
+Nais kong maulit ang awit ni Inang Mahal\n
+Awit ng pag-ibig habang ako\'y nasa duyan\n\n
+
+Sa aking pagtulog na labis ang himbing\n
+Ang bantay ko\'y talaAng tanod ko\'y bituin\n\n
+
+Sa piling ni Nanay\n
+Langit ang buhay\n
+Puso kong may dusa\n
+Sabik sa ugoy ng duyan mo, Inay  
+</string>
+<string name="tongtongtong_title">Tong, Tong, Tong, Tong Pakitong-Kitong</string>
+<string name="tongtongtong_composer">Unknown</string>
+<string name="tongtongtong_lyrics">
+    \n\n
+Tong, tong, tong, tong pakitong-kitong\n
+Alimango sa dagat\n
+malaki at masarap!\n\n
+
+Kay hirap hulihin\n
+sapagkat nangangagat.\n\n
+
+Tong, tong, tong, tong pakitong-kitong.
+</string>
+</resources>
